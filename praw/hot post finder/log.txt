@@ -1,0 +1,11 @@
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 18:22:10 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 18:22:29 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 20:20:25 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 20:20:46 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 20:21:39 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 20:22:49 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 20:29:30 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 20:29:46 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 21:49:01 2020
+ERROR - The bot was ratelimited by the API - Reconnecting - Sun Mar 15 21:51:33 2020
+ERROR - Error encountered while communicating with the server - Reconnecting in 1 minute - Wed Mar 18 09:38:10 2020
